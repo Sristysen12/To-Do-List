@@ -54,29 +54,6 @@ body{
   animation: glowTracer 3s linear infinite;
 }
 
-/* Glowing border tracer with shadow on all sides
-@keyframes glowTracer {
-  0% {
-    border-image: linear-gradient(90deg, #E14434, transparent) 1;
-    box-shadow: 0 0 10px #E14434, 0 0 20px #E14434;
-  }
-  25% {
-    border-image: linear-gradient(180deg, #E14434, transparent) 1;
-    box-shadow: 0 0 12px #E14434, 0 0 25px #E14434;
-  }
-  50% {
-    border-image: linear-gradient(270deg, #E14434, transparent) 1;
-    box-shadow: 0 0 14px #E14434, 0 0 30px #E14434;
-  }
-  75% {
-    border-image: linear-gradient(360deg, #E14434, transparent) 1;
-    box-shadow: 0 0 12px #E14434, 0 0 25px #E14434;
-  }
-  100% {
-    border-image: linear-gradient(90deg, #E14434, transparent) 1;
-    box-shadow: 0 0 10px #E14434, 0 0 20px #E14434;
-  }
-} */
 h2{
     width: 100%;
     font-weight: 30px;
